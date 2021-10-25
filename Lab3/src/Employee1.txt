@@ -1,0 +1,6 @@
+Frede,manager,2002,150
+Cleynaert,programmer,2003,250
+Botcherby,tester,2001,90
+Engley,manager,2002,150
+Fullicks,manager,2003,250
+Gogerty,tester,2001,90
